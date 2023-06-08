@@ -1,0 +1,27 @@
+#name{
+    font-family: 'Roboto', sans-serif;
+font-style: italic;
+          font-weight:700;
+          font-size: 60px;
+          color: #007FEF;
+          text-shadow: black;
+          display: inline-block !important;
+}
+#form{
+    background-color: rgb(106, 102, 72);
+}
+@media only screen and (min-width: 768px){
+ #intro{
+   padding-top: 50rem;
+}   
+}
+#nav{
+    background-color: rgb(233, 224, 212);
+}
+#body{
+   font-family: 'Roboto', sans-serif;
+}
+/* 
+font-family: 'Open Sans', sans-serif;
+
+ */
